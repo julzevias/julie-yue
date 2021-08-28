@@ -8,8 +8,8 @@ function App() {
   return (
     <Router basename={process.env.PUBLIC_URL}>
       <Switch>
-        <Route path='/' component={Home} exact />
-        <Route path='/Signin' component={SigninPage} exact />
+        <Route path={process.env.PUBLIC_URL + '/'} component={Home} exact />
+        <Route path={process.env.PUBLIC_URL + '/Signin'} component={SigninPage} exact />
  
       </Switch>
       
