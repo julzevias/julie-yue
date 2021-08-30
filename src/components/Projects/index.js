@@ -7,6 +7,7 @@ import {
   ProjectsH1,
   ProjectsWrapper,
   ProjectsCard,
+  ProjectsCard2,
   ProjectsIcon,
   ProjectsH2,
   ProjectsP,
@@ -19,7 +20,7 @@ const Projects = () => {
       <ProjectsH1>Projects</ProjectsH1>
       <ProjectsWrapper>
         <ProjectsCard
-          href="https://www.instagram.com/julzevias/"
+          href="https://julzevias.github.io/weather/"
           target="_blank"
         >
           <Projectdiv>
@@ -33,7 +34,7 @@ const Projects = () => {
         </ProjectsCard>
 
         <ProjectsCard
-          href="https://www.instagram.com/julzevias/"
+          href="https://julzevias.github.io/react-task-tracker/"
           target="_blank"
         >
           <Projectdiv>
@@ -46,16 +47,13 @@ const Projects = () => {
           </Projectdiv>
         </ProjectsCard>
 
-        <ProjectsCard
-          href="https://www.instagram.com/julzevias/"
-          target="_blank"
-        >
+        <ProjectsCard2>
           <Projectdiv>
             <ProjectsIcon src={Icon3} />
             <ProjectsH2>Coming Soon</ProjectsH2>
             <ProjectsP>Keep Your Eyes Peeled!</ProjectsP>
           </Projectdiv>
-        </ProjectsCard>
+        </ProjectsCard2>
       </ProjectsWrapper>
     </ProjectsContainer>
   );
