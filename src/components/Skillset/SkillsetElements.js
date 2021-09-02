@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 export const SkillsetBg = styled.div`
   background: linear-gradient(pink, #010606);
-  padding-bottom: 40px;
 `;
 
 export const SkillsetContainer = styled.div`

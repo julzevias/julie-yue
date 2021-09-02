@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const ProjectsContainer = styled.div`
-  height: 800px;
+  padding: 120px 0 230px 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
