@@ -27,8 +27,7 @@ const Projects = () => {
             <ProjectsIcon src={Icon2} />
             <ProjectsH2>Weather Application</ProjectsH2>
             <ProjectsP>
-              Search a location for the weather and receive a cute background to
-              boot!
+              Search a location for the weather. Reactive icons included.
             </ProjectsP>
           </Projectdiv>
         </ProjectsCard>
@@ -41,8 +40,7 @@ const Projects = () => {
             <ProjectsIcon src={Icon1} />
             <ProjectsH2>Task Management</ProjectsH2>
             <ProjectsP>
-              Keep track of your to-do's on this trusty productivity
-              application!
+              Keep track of your to-do's on this productivity application
             </ProjectsP>
           </Projectdiv>
         </ProjectsCard>
