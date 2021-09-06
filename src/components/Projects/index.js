@@ -20,7 +20,7 @@ const Projects = () => {
       <ProjectsH1>Projects</ProjectsH1>
       <ProjectsWrapper>
         <ProjectsCard
-          href="https://julzevias.github.io/weather/"
+          href="https://julzevias.github.io/weather2/"
           target="_blank"
         >
           <Projectdiv>
