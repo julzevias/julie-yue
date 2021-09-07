@@ -41,7 +41,6 @@ const Projects = () => {
             <ProjectsH2>Task Management</ProjectsH2>
             <ProjectsP>
               Keep track of your to-do's in this productivity application.
-              ghjhgfdsdfgh
             </ProjectsP>
           </Projectdiv>
         </ProjectsCard>
