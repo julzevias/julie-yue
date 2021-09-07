@@ -81,9 +81,14 @@ export const ProjectsCard2 = styled.div`
 `;
 
 export const ProjectsIcon = styled.img`
-  height: 160px;
-  width: 160px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  display: block;
+  max-width: 230px;
+  max-height: 230px;
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
 `;
 
 export const ProjectsH1 = styled.h1`
@@ -104,6 +109,7 @@ export const ProjectsH2 = styled.h2`
 export const ProjectsP = styled.p`
   font-size: 1rem;
   text-align: center;
+  min-height: 56px;
 `;
 
 export const Projectdiv = styled.div`

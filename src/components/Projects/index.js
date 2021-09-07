@@ -40,7 +40,8 @@ const Projects = () => {
             <ProjectsIcon src={Icon1} />
             <ProjectsH2>Task Management</ProjectsH2>
             <ProjectsP>
-              Keep track of your to-do's on this productivity application
+              Keep track of your to-do's in this productivity application.
+              ghjhgfdsdfgh
             </ProjectsP>
           </Projectdiv>
         </ProjectsCard>
