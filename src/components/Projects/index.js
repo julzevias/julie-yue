@@ -47,7 +47,7 @@ const Projects = () => {
         <ProjectsCard href="https://lolaegis.com/" target="_blank">
           <Projectdiv>
             <ProjectsIcon src={Icon3} />
-            <ProjectsH2>WP Ecommerce Site</ProjectsH2>
+            <ProjectsH2>WP E-commerce Site</ProjectsH2>
             <ProjectsP>
               Fully functioning store (except credit card functionality) using
               WooCommerce and OceanWP.
