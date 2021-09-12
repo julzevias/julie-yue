@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/julie-yue/static/css/main.68db5025.chunk.css",
-    "main.js": "/julie-yue/static/js/main.0fa3aaee.chunk.js",
-    "main.js.map": "/julie-yue/static/js/main.0fa3aaee.chunk.js.map",
+    "main.js": "/julie-yue/static/js/main.1839ab87.chunk.js",
+    "main.js.map": "/julie-yue/static/js/main.1839ab87.chunk.js.map",
     "runtime-main.js": "/julie-yue/static/js/runtime-main.3348c3f4.js",
     "runtime-main.js.map": "/julie-yue/static/js/runtime-main.3348c3f4.js.map",
     "static/js/2.1498b8be.chunk.js": "/julie-yue/static/js/2.1498b8be.chunk.js",
@@ -10,16 +10,16 @@
     "index.html": "/julie-yue/index.html",
     "static/css/main.68db5025.chunk.css.map": "/julie-yue/static/css/main.68db5025.chunk.css.map",
     "static/js/2.1498b8be.chunk.js.LICENSE.txt": "/julie-yue/static/js/2.1498b8be.chunk.js.LICENSE.txt",
-    "static/media/question.0f30d70a.png": "/julie-yue/static/media/question.0f30d70a.png",
     "static/media/svg-1.svg": "/julie-yue/static/media/svg-1.4230d339.svg",
     "static/media/task.37e45a05.png": "/julie-yue/static/media/task.37e45a05.png",
     "static/media/video.374798e8.mp4": "/julie-yue/static/media/video.374798e8.mp4",
-    "static/media/weather.6d33d43a.png": "/julie-yue/static/media/weather.6d33d43a.png"
+    "static/media/weather.6d33d43a.png": "/julie-yue/static/media/weather.6d33d43a.png",
+    "static/media/wp_ecommerce.7a727be7.png": "/julie-yue/static/media/wp_ecommerce.7a727be7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3348c3f4.js",
     "static/js/2.1498b8be.chunk.js",
     "static/css/main.68db5025.chunk.css",
-    "static/js/main.0fa3aaee.chunk.js"
+    "static/js/main.1839ab87.chunk.js"
   ]
 }
