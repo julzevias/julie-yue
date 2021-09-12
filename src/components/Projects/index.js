@@ -1,13 +1,12 @@
 import React from "react";
 import Icon1 from "../../images/task.png";
 import Icon2 from "../../images/weather.png";
-import Icon3 from "../../images/question.png";
+import Icon3 from "../../images/wp_ecommerce.png";
 import {
   ProjectsContainer,
   ProjectsH1,
   ProjectsWrapper,
   ProjectsCard,
-  ProjectsCard2,
   ProjectsIcon,
   ProjectsH2,
   ProjectsP,
@@ -45,13 +44,16 @@ const Projects = () => {
           </Projectdiv>
         </ProjectsCard>
 
-        <ProjectsCard2>
+        <ProjectsCard href="https://lolaegis.com/" target="_blank">
           <Projectdiv>
             <ProjectsIcon src={Icon3} />
-            <ProjectsH2>Coming Soon</ProjectsH2>
-            <ProjectsP>Keep Your Eyes Peeled!</ProjectsP>
+            <ProjectsH2>WP Ecommerce Site</ProjectsH2>
+            <ProjectsP>
+              Fully functioning store (except credit card functionality) using
+              WooCommerce and OceanWP.
+            </ProjectsP>
           </Projectdiv>
-        </ProjectsCard2>
+        </ProjectsCard>
       </ProjectsWrapper>
     </ProjectsContainer>
   );
