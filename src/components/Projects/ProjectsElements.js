@@ -18,7 +18,7 @@ export const ProjectsContainer = styled.div`
 `;
 
 export const ProjectsWrapper = styled.div`
-  max-width: 1000px;
+  max-width: 1250px;
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -50,6 +50,7 @@ export const ProjectsCard = styled.a`
   border: solid;
   text-decoration: none;
   color: black;
+  margin: 0 15px 0 15px;
 
   &:hover {
     transform: scale(1.02);

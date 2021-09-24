@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const InfoBg = styled.div`
+  padding-top: 10px;
   background-color: pink;
 
   @media screen and (max-width: 900px) {

@@ -16,10 +16,12 @@ export const SkillsetContainer = styled.div`
 `;
 
 export const SkillsetH1 = styled.h1`
+  position: relative;
   font-size: 3rem;
   color: #fff;
   text-align: center;
   padding-bottom: 40px;
+  bottom: 40px;
 `;
 
 export const SkillsetDescp = styled.div`
@@ -53,6 +55,7 @@ export const SkillsetP = styled.div`
 export const SkillsetAttributes = styled.div`
   width: 50%;
   padding: 1em;
+  padding-bottom: 50px;
   margin-top: 10px;
 
   @media screen and (max-width: 1200px) {
