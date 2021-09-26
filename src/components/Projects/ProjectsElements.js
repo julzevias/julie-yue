@@ -50,7 +50,7 @@ export const ProjectsCard = styled.a`
   border: solid;
   text-decoration: none;
   color: black;
-  margin: 0 15px 0 15px;
+  margin: 0 15px 30px 15px;
 
   &:hover {
     transform: scale(1.02);

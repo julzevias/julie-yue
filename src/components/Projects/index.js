@@ -2,6 +2,7 @@ import React from "react";
 import Icon1 from "../../images/task.png";
 import Icon2 from "../../images/weather.png";
 import Icon3 from "../../images/wp_ecommerce.png";
+import Icon4 from "../../images/color.png";
 import {
   ProjectsContainer,
   ProjectsH1,
@@ -51,6 +52,19 @@ const Projects = () => {
             <ProjectsP>
               Fully functioning store (except credit card functionality) using
               WooCommerce and OceanWP.
+            </ProjectsP>
+          </Projectdiv>
+        </ProjectsCard>
+        <ProjectsCard
+          href="https://julzevias.github.io/weather2/"
+          target="_blank"
+        >
+          <Projectdiv>
+            <ProjectsIcon src={Icon4} />
+            <ProjectsH2>Color Generator</ProjectsH2>
+            <ProjectsP>
+              Generates tints and shades of a color of your choice. Can copy to
+              clipboard.
             </ProjectsP>
           </Projectdiv>
         </ProjectsCard>
