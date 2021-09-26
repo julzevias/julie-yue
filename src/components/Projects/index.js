@@ -45,16 +45,6 @@ const Projects = () => {
           </Projectdiv>
         </ProjectsCard>
 
-        <ProjectsCard href="https://lolaegis.com/" target="_blank">
-          <Projectdiv>
-            <ProjectsIcon src={Icon3} />
-            <ProjectsH2>WP E-commerce Site</ProjectsH2>
-            <ProjectsP>
-              Fully functioning store (except credit card functionality) using
-              WooCommerce and OceanWP.
-            </ProjectsP>
-          </Projectdiv>
-        </ProjectsCard>
         <ProjectsCard
           href="https://julzevias.github.io/color-generator/"
           target="_blank"
