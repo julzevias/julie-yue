@@ -56,7 +56,7 @@ const Projects = () => {
           </Projectdiv>
         </ProjectsCard>
         <ProjectsCard
-          href="https://julzevias.github.io/weather2/"
+          href="https://julzevias.github.io/color-generator/"
           target="_blank"
         >
           <Projectdiv>
