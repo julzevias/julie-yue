@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import Video from "../../videos/video.mp4";
-import { Button } from "../ButtonElements";
+import React, { useState } from 'react'
+import Video from '../../videos/video.mp4'
+import { Button } from '../ButtonElements'
 import {
   HeroContainer,
   HeroBg,
@@ -10,14 +10,14 @@ import {
   HeroP,
   HeroBtnWrapper,
   ArrowRight,
-} from "./HeroElements";
-import ".";
+} from './HeroElements'
+import '.'
 const HeroSection = () => {
-  const [hover, setHover] = useState(false);
+  const [hover, setHover] = useState(false)
 
   const onHover = () => {
-    setHover(!hover);
-  };
+    setHover(!hover)
+  }
 
   return (
     <HeroContainer>
@@ -26,10 +26,10 @@ const HeroSection = () => {
       </HeroBg>
       <HeroContent>
         <HeroH1>Julie Yue</HeroH1>
-        <HeroP>Aspiring Frontend Developer</HeroP>
+        <HeroP>Front-End Developer</HeroP>
         <HeroBtnWrapper>
           <Button
-            to="about"
+            to="projects"
             smooth={true}
             onMouseEnter={onHover}
             onMouseLeave={onHover}
@@ -42,7 +42,7 @@ const HeroSection = () => {
         </HeroBtnWrapper>
       </HeroContent>
     </HeroContainer>
-  );
-};
+  )
+}
 
-export default HeroSection;
+export default HeroSection

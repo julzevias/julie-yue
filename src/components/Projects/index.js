@@ -1,8 +1,7 @@
-import React from "react";
-import Icon1 from "../../images/task.png";
-import Icon2 from "../../images/weather.png";
-import Icon3 from "../../images/wp_ecommerce.png";
-import Icon4 from "../../images/color.png";
+import React from 'react'
+import Icon1 from '../../images/task.png'
+import Icon2 from '../../images/weather.png'
+import Icon4 from '../../images/color.png'
 import {
   ProjectsContainer,
   ProjectsH1,
@@ -12,7 +11,7 @@ import {
   ProjectsH2,
   ProjectsP,
   Projectdiv,
-} from "./ProjectsElements";
+} from './ProjectsElements'
 
 const Projects = () => {
   return (
@@ -60,7 +59,7 @@ const Projects = () => {
         </ProjectsCard>
       </ProjectsWrapper>
     </ProjectsContainer>
-  );
-};
+  )
+}
 
-export default Projects;
+export default Projects

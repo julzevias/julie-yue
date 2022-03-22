@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from "react";
-import { FaBars } from "react-icons/fa";
-import Icon from "../../images/icon.png";
+import React, { useState, useEffect } from 'react'
+import { FaBars } from 'react-icons/fa'
+import Icon from '../../images/icon.png'
 
 import {
   Nav,
@@ -11,31 +11,31 @@ import {
   NavItem,
   NavLinks,
   NavIcon,
-} from "./NavbarElements";
-import { IconContext } from "react-icons/lib";
-import { animateScroll as scroll } from "react-scroll";
+} from './NavbarElements'
+import { IconContext } from 'react-icons/lib'
+import { animateScroll as scroll } from 'react-scroll'
 const Navbar = ({ toggle }) => {
-  const [scrollNav, setScrollNav] = useState(false);
+  const [scrollNav, setScrollNav] = useState(false)
 
   const changeNav = () => {
     if (window.scrollY >= 80) {
-      setScrollNav(true);
+      setScrollNav(true)
     } else {
-      setScrollNav(false);
+      setScrollNav(false)
     }
-  };
+  }
 
   useEffect(() => {
-    window.addEventListener("scroll", changeNav);
-  }, []);
+    window.addEventListener('scroll', changeNav)
+  }, [])
 
   const toggleHome = () => {
-    scroll.scrollToTop();
-  };
+    scroll.scrollToTop()
+  }
 
   return (
     <>
-      <IconContext.Provider value={{ color: "#F7739B" }}>
+      <IconContext.Provider value={{ color: '#F7739B' }}>
         <Nav scrollNav={scrollNav}>
           <NavbarContainer>
             <NavLogo to="/" onClick={toggleHome}>
@@ -60,30 +60,6 @@ const Navbar = ({ toggle }) => {
               </NavItem>
               <NavItem>
                 <NavLinks
-                  to="skillset"
-                  smooth={true}
-                  duration={1000}
-                  spy={true}
-                  exact="true"
-                  offset={-80}
-                >
-                  Skillset
-                </NavLinks>
-              </NavItem>
-              <NavItem>
-                <NavLinks
-                  to="projects"
-                  smooth={true}
-                  duration={1000}
-                  spy={true}
-                  exact="true"
-                  offset={-80}
-                >
-                  Projects
-                </NavLinks>
-              </NavItem>
-              <NavItem>
-                <NavLinks
                   to="contact"
                   smooth={true}
                   duration={1000}
@@ -99,7 +75,7 @@ const Navbar = ({ toggle }) => {
         </Nav>
       </IconContext.Provider>
     </>
-  );
-};
+  )
+}
 
-export default Navbar;
+export default Navbar
