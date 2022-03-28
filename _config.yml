@@ -1,0 +1,11 @@
+# --- Required options --- #
+
+# Name of website
+title: Julz- Personal Website
+
+# Short description of your site
+description: Personal Website made from React, HTML, CSS, JavaScript, and JQuery. Includes links to 3 applications and implements states, open source libraries, and components. 
+
+# GitHub Actions
+repository: "julzevias/julie-yue"
+
