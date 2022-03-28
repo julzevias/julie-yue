@@ -1,27 +1,20 @@
 {
   "files": {
-    "main.css": "/julie-yue/static/css/main.68db5025.chunk.css",
-    "main.js": "/julie-yue/static/js/main.80dd4834.chunk.js",
-    "main.js.map": "/julie-yue/static/js/main.80dd4834.chunk.js.map",
-    "runtime-main.js": "/julie-yue/static/js/runtime-main.3348c3f4.js",
-    "runtime-main.js.map": "/julie-yue/static/js/runtime-main.3348c3f4.js.map",
-    "static/js/2.1498b8be.chunk.js": "/julie-yue/static/js/2.1498b8be.chunk.js",
-    "static/js/2.1498b8be.chunk.js.map": "/julie-yue/static/js/2.1498b8be.chunk.js.map",
+    "main.css": "/julie-yue/static/css/main.d5e93d2c.css",
+    "main.js": "/julie-yue/static/js/main.2dd3dcd2.js",
+    "static/media/video.mp4": "/julie-yue/static/media/video.374798e82e3ffba21132.mp4",
+    "static/media/portrait.jpg": "/julie-yue/static/media/portrait.fba435a987dffd580544.jpg",
+    "static/media/weather.png": "/julie-yue/static/media/weather.6d33d43a456808fc0c96.png",
+    "static/media/abstract.png": "/julie-yue/static/media/abstract.6667e9fc3f12eb785bb8.png",
+    "static/media/color.png": "/julie-yue/static/media/color.769be15e84c401d5f77f.png",
+    "static/media/task.png": "/julie-yue/static/media/task.37e45a057128ad852565.png",
+    "static/media/Julie_Yue_Resume.pdf": "/julie-yue/static/media/Julie_Yue_Resume.05f77d67985397662c50.pdf",
     "index.html": "/julie-yue/index.html",
-    "static/css/main.68db5025.chunk.css.map": "/julie-yue/static/css/main.68db5025.chunk.css.map",
-    "static/js/2.1498b8be.chunk.js.LICENSE.txt": "/julie-yue/static/js/2.1498b8be.chunk.js.LICENSE.txt",
-    "static/media/color.769be15e.png": "/julie-yue/static/media/color.769be15e.png",
-    "static/media/icon.eabe562e.png": "/julie-yue/static/media/icon.eabe562e.png",
-    "static/media/svg-1.svg": "/julie-yue/static/media/svg-1.4230d339.svg",
-    "static/media/task.37e45a05.png": "/julie-yue/static/media/task.37e45a05.png",
-    "static/media/video.374798e8.mp4": "/julie-yue/static/media/video.374798e8.mp4",
-    "static/media/weather.6d33d43a.png": "/julie-yue/static/media/weather.6d33d43a.png",
-    "static/media/wp_ecommerce.7a727be7.png": "/julie-yue/static/media/wp_ecommerce.7a727be7.png"
+    "main.d5e93d2c.css.map": "/julie-yue/static/css/main.d5e93d2c.css.map",
+    "main.2dd3dcd2.js.map": "/julie-yue/static/js/main.2dd3dcd2.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3348c3f4.js",
-    "static/js/2.1498b8be.chunk.js",
-    "static/css/main.68db5025.chunk.css",
-    "static/js/main.80dd4834.chunk.js"
+    "static/css/main.d5e93d2c.css",
+    "static/js/main.2dd3dcd2.js"
   ]
 }
