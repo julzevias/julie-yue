@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/julie-yue/static/css/main.699ed482.css",
-    "main.js": "/julie-yue/static/js/main.866545d9.js",
+    "main.js": "/julie-yue/static/js/main.129f5a19.js",
     "static/media/video.mp4": "/julie-yue/static/media/video.374798e82e3ffba21132.mp4",
+    "static/media/dogs.png": "/julie-yue/static/media/dogs.dbf49d0eb4f1d2b748ae.png",
     "static/media/portrait.jpg": "/julie-yue/static/media/portrait.fba435a987dffd580544.jpg",
     "static/media/weather.png": "/julie-yue/static/media/weather.6d33d43a456808fc0c96.png",
     "static/media/abstract.png": "/julie-yue/static/media/abstract.6667e9fc3f12eb785bb8.png",
     "static/media/color.png": "/julie-yue/static/media/color.769be15e84c401d5f77f.png",
-    "static/media/task.png": "/julie-yue/static/media/task.37e45a057128ad852565.png",
     "static/media/Julie_Yue_Resume.pdf": "/julie-yue/static/media/Julie_Yue_Resume.05f77d67985397662c50.pdf",
     "index.html": "/julie-yue/index.html",
     "main.699ed482.css.map": "/julie-yue/static/css/main.699ed482.css.map",
-    "main.866545d9.js.map": "/julie-yue/static/js/main.866545d9.js.map"
+    "main.129f5a19.js.map": "/julie-yue/static/js/main.129f5a19.js.map"
   },
   "entrypoints": [
     "static/css/main.699ed482.css",
-    "static/js/main.866545d9.js"
+    "static/js/main.129f5a19.js"
   ]
 }
